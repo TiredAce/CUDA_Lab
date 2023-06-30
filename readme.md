@@ -1,10 +1,11 @@
 # CUDA - Lab
 
-## 简介
+## Introduction
 
-本`prob`用来记录`CUDA`学习笔记
+This project is used to record the reading notes of the cuda
 
-## 目录
+## catalog
 
 * [GPU高性能编程CUDA实战](./GPU高性能编程CUDA实战)
 
+* [CUDA C编程权威指南](./CUDA编程权威指南)
